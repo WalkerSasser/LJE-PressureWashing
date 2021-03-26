@@ -18,6 +18,16 @@ a {
   text-decoration: none;
 }
 
+/* custom styles, definitly not industry standard */
+#IconTop {
+  font-size: 2.5em;
+}
+
+#client {
+  background-color: #0d58ba;
+}
+
+
 a:hover {
   color: #3b8af2;
   text-decoration: none;
